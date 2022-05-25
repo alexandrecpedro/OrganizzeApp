@@ -55,12 +55,12 @@
 <br>
 <br>
 
+<p></p>
 <img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img height =' 100px ' src="https://junit.org/junit5/assets/img/junit5-logo.png" />
 <br><br>
-</div>
 
  ## 💡 Funcionalidades
 
