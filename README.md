@@ -41,6 +41,26 @@
       <li>Firebase Storage</li>        
      </ul>   
  </div>
+ 
+ |                  Type                  |                Tools                |                                 References                                  |
+| :------------------------------------: | :---------------------------------: | :-------------------------------------------------------------------------: |
+|       Programming Language (App)       |                JAVA                 |              https://docs.oracle.com/javase/tutorial/                       | 
+|                   IDE                  |           ANDROID STUDIO            |              https://developer.android.com/studio                           |
+|                 Testing                |               JUNIT5                |              https://junit.org/junit5/                                       |
+|                 Database               |              FIREBASE               |              https://firebase.google.com/                                   |
+|      Graphic components (Google)       |        GOOGLE MATERIAL DESIGN       |              https://material.io/                                           |
+|         Material Intro (Slider)        |                SLIDER               |              https://github.com/heinrichreimer/material-intro               |
+|      Floating Action Button (FAB)      |                 FAB                 |              https://github.com/Clans/FloatingActionButton                  |
+|        Material (Calendar View)        |            CALENDAR VIEW            |              https://github.com/prolificinteractive/material-calendarview   |
+<br>
+<br>
+
+<img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img height =' 100px ' src="https://junit.org/junit5/assets/img/junit5-logo.png" />
+<br><br>
+</div>
 
  ## 💡 Funcionalidades
 
