@@ -10,9 +10,9 @@
 <br>
 
 | | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="intro1" src="./assets/screen1.png"> | <img width="1604" alt="intro2" src="./assets/screen2">|<img width="1604" alt="intro3" src="./assets/screen3">|
-|<img width="1604" alt="intro4" src="./assets/screen4">|<img width="1604" alt="register" src="./assets/screen5.png"> | <img width="1604" alt="login" src="./assets/screen6">|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="intro1" src="./assets/screen1.png"> | <img width="1604" alt="intro2" src="./assets/screen2">|<img width="1604" alt="intro3" src="./assets/screen3">|<img width="1604" alt="intro4" src="./assets/screen4">|<img width="1604" alt="intro4" src="./assets/screen5">|
+|<img width="1604" alt="register" src="./assets/screen5.png"> | <img width="1604" alt="login" src="./assets/screen6">|
 <br>
 
 <p></p>
