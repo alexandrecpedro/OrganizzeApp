@@ -1,7 +1,25 @@
-<p>Clone do app Organizze, perfomando as funções básicas do aplicativo, no qual foi implementado em linguagem Java, utilizando Firebase como banco de dados </p>
+<div align = "center">
+    <h1> Organizze App Clone </h1>
+</div>
+<br>
+
+<div align = 'center' justify-content = 'space-around' >
+   <img src= './assets/organizze_logo.svg' alt = 'Organizze logo' >
+</div>
+<br>
+<br>
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="intro1" src="./assets/screen1.png"> | <img width="1604" alt="intro2" src="./assets/screen2">|<img width="1604" alt="intro3" src="./assets/screen3">|
+|<img width="1604" alt="intro4" src="./assets/screen4">|<img width="1604" alt="register" src="./assets/screen5.png"> | <img width="1604" alt="login" src="./assets/screen6">|
+<br>
+
+<p></p>
 
 <p align="center">
   <a href="#-o-projeto">📓 O Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-objetivo">💡 Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias"> 🔧 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-funcionalidades">💡 Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-testar">🧪 Como testar</a>&nbsp;&nbsp;&nbsp;
@@ -9,6 +27,9 @@
 
 ## 📓 O Projeto 
 <p> Foi criado com o intuito de aprimorar as habildides em desenvolvimento de aplicativos para android de forma nativa, correlacionado-se com o aprendizado bancos de dados não relacional, nesse caso, sendo o Firebase. </p>
+
+## 💡 Objetivo
+<p>Clone do app Organizze, perfomando as funções básicas do aplicativo, no qual foi implementado em linguagem Java, utilizando Firebase como banco de dados </p>
 
 ## 🔧 Tecnologias
 <p> As principais tecnologias utilizadas no projeto foram : </p>
