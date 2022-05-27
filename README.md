@@ -26,10 +26,10 @@
 </p>
 
 ## 📓 The Project 
-<p> Foi criado com o intuito de aprimorar as habildides em desenvolvimento de aplicativos para android de forma nativa, correlacionado-se com o aprendizado bancos de dados não relacional, nesse caso, sendo o Firebase. </p>
+<p> The Organizze App clone was built in order to improve native Android app development skills, correlated with learning non-relational databases, in this case, Firebase.</p>
 
 ## 💡 Target
-<p>Clone do app Organizze, perfomando as funções básicas do aplicativo, no qual foi implementado em linguagem Java, utilizando Firebase como banco de dados </p>
+<p>Organizze app clone, performing the basic functions of the application, in which was implemented Java language, using Firebase as a database</p>
 
 ## 🔧 Technologies
 <p> The main technologies that has been used in this project were: </p>
