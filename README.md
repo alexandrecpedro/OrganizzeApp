@@ -18,11 +18,11 @@
 <p></p>
 
 <p align="center">
-  <a href="#-the-project">📓 The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-target">💡 Target</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-the-project"> 📓 The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-target"> 💡 Target</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies"> 🔧 Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-functionalities">💡 Functionalities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-test">🧪 How to test</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-functionalities"> 🔎 Functionalities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-test"> 🧪 How to test</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 📓 The Project 
@@ -52,7 +52,7 @@
 |<img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> | <img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />| <img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />|<img height =' 100px ' src="https://junit.org/junit5/assets/img/junit5-logo.png" />|
 <br><br>
 
- ## 💡 Functionalities
+ ## 🔎 Functionalities
 
  <div>
     <ul>
